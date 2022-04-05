@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/N0tHider">
-  <div style="display: inline_block; margin: 0; border: 0; padding: 0; width=20%">
+  <div style="display: inline_block; margin:0; border:0; padding:0;">
     <img height="216em" src="https://github-readme-stats.vercel.app/api?username=N0tHider&&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true"/>
   </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0tHider&layout=compact&langs_count=7&theme=dracula"/>
