@@ -2,10 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/N0tHider">
-  <div style="display: inline_block; margin:0; border:0; padding:0;">
-    <img height="216em" src="https://github-readme-stats.vercel.app/api?username=N0tHider&&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true"/>
-    <img align="right" alt="Hider-pic" height="280" style="border-radius:0px;" src="https://cdn.discordapp.com/attachments/960986266160230492/960989972368863323/Image.png">
-  </div>
+  <img height="216em" src="https://github-readme-stats.vercel.app/api?username=N0tHider&&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0tHider&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -13,6 +10,7 @@
   <img align="center" alt="Hider-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hider-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hider-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Hider-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960986266160230492/960989972368863323/Image.png">
 </div>
 
 <!--
