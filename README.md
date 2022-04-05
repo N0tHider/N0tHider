@@ -1,8 +1,8 @@
 <h1>Opa, eu sou o Hider!</h1>
 
-<div align="center">
-  <a href="https://github.com/CaioCElias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N0tHider&&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true"/>
+<div align="left">
+  <a href="https://github.com/N0tHider">
+  <img height="216em" src="https://github-readme-stats.vercel.app/api?username=N0tHider&&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0tHider&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -11,18 +11,6 @@
   <img align="center" alt="Hider-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hider-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-<!--
-**CaioCElias/CaioCElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
 
 <!--
 **N0tHider/N0tHider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
