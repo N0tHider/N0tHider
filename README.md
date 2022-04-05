@@ -21,13 +21,13 @@
     <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
   </a>
   <p>--------</p>
-  <a href="">
+  <a href="https://github.com/N0tHider">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="Twitter">
   </a>
-  <a href="">
+  <a href="https://github.com/N0tHider">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="Twitter">
   </a>
-  <a href="">
+  <a href="https://github.com/N0tHider">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Twitter">
   </a>
 <div>
