@@ -2,8 +2,10 @@
 
 <div align="left">
   <a href="https://github.com/N0tHider">
-  <img height="216em" src="https://github-readme-stats.vercel.app/api?username=N0tHider&&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true"/>
-  <img align="right" alt="Hider-pic" height="290" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960986266160230492/960989972368863323/Image.png">
+  <div style="display: inline_block">
+    <img height="216em" src="https://github-readme-stats.vercel.app/api?username=N0tHider&&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true"/>
+    <img align="right" alt="Hider-pic" height="290" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960986266160230492/960989972368863323/Image.png">
+  </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0tHider&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
