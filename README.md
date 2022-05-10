@@ -1,6 +1,6 @@
 <h1>Opa, eu sou o Hider!</h1>
 
-<img align="right" alt="Hider-pic" height="335" src="https://cdn.discordapp.com/attachments/960986266160230492/960989972368863323/Image.png">
+<!--<img align="right" alt="Hider-pic" height="335" src="https://cdn.discordapp.com/attachments/960986266160230492/960989972368863323/Image.png">-->
 
 <div align="left">
   <a href="https://github.com/N0tHider">
